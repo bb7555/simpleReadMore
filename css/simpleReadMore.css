@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* Simple Read More jQuery Plug-In styles */
+
+.read_more_toggle
+{
+font-family: Verdana, Lucinda Sans Unicode, Lucinda Grande,sans-serif;
+color: #0000ff;
+font-weight: normal;
+font-size: 12px;
+line-height: 140%;
+text-align: justify;
+vertical-align: top;
+padding: 0px 10px 10px 0px;
+margin: 0px;
+font-weight:bold;
+text-decoration:underline;
+cursor:pointer;	
+}
+
+.readMore
+{
+	display:none;	
+}
