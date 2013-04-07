@@ -1,3 +1,6 @@
 $(document).ready(	function($) {
-	$(".someContainer").readMore();			
+	$(".someContainer").readMore({
+		firstText: "Read More",
+		lastText: "Hide Text"
+	});			
 });
